@@ -2,8 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 10,
-   "id": "4b45f898-30ad-4689-871d-64c34d2a633e",
+   "execution_count": 2,
+   "id": "6bfbd89d-39c8-4f1c-884a-09afb20c52a6",
    "metadata": {},
    "outputs": [
     {
@@ -12,7 +12,7 @@
        "2"
       ]
      },
-     "execution_count": 10,
+     "execution_count": 2,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -23,8 +23,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
-   "id": "3a6f9cec-8d3b-42ff-8c8d-13f53c3caab4",
+   "execution_count": 4,
+   "id": "39211be0-2762-4e65-8d76-35e0a4c68afd",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -33,8 +33,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
-   "id": "98de47f7-5b7e-4c6d-8fb1-f6125014d745",
+   "execution_count": 6,
+   "id": "cb94495d-92ba-4c57-bbd2-9522aa38559c",
    "metadata": {},
    "outputs": [
     {
@@ -43,7 +43,7 @@
        "'still functioning'"
       ]
      },
-     "execution_count": 12,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -54,8 +54,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
-   "id": "792477c5-86da-4f44-be3e-69e73c19d6a1",
+   "execution_count": 8,
+   "id": "72ad4e3f-a571-40e8-99d2-13f7939eb0ca",
    "metadata": {},
    "outputs": [
     {
@@ -64,7 +64,7 @@
        "'segmentation fault'"
       ]
      },
-     "execution_count": 17,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -75,8 +75,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
-   "id": "473ff1b4-1bec-47a1-9046-8037cda2cea5",
+   "execution_count": 10,
+   "id": "65f5bf97-94d4-4844-a601-90a0f09bcd03",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -85,8 +85,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
-   "id": "9900163b-3452-4f6e-8c5b-23e8cc4f7fa2",
+   "execution_count": 12,
+   "id": "2961fd3e-bade-458b-8b70-2a3b2854ff59",
    "metadata": {},
    "outputs": [
     {
@@ -95,7 +95,7 @@
        "'works_on_my_machine'"
       ]
      },
-     "execution_count": 21,
+     "execution_count": 12,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -106,8 +106,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
-   "id": "527d25a2-e14c-470b-8d19-1a2e0e6229c4",
+   "execution_count": 14,
+   "id": "bd0fc967-b394-486e-8d54-86ab9b7ca363",
    "metadata": {},
    "outputs": [
     {
@@ -116,7 +116,7 @@
        "'legendary'"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
