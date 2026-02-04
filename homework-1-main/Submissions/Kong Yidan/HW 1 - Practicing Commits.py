@@ -1,1 +1,1 @@
-print("HW1 commit practice: version 1")
+print("HW1 commit practice: version 2")
