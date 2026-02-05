@@ -77,4 +77,25 @@ To **summarize**, this GitHub project is valuable because it:
 Overall, the ESPN API project helps users move from manually checking scores on a website to *programmatically* analyzing their leagues in a reproducible way； I also practiced good version-control habits by making multiple commits
 to my Git repository as I updated this notebook；This helped me keep a clear record of my progress and made it easy to
 revert or compare changes when necessary.
+
+### Answer to Question 6
+
+When I looked at the commit history for my Jupyter Notebook on GitHub, the
+“code” in the diff did not really look like the code I wrote. Instead, it
+looked like a long block of structured text with keys such as `cells`,
+`metadata`, and `outputs`. In other words, Git was showing the raw JSON
+representation of the notebook, not the cleaner cell-by-cell view that I
+see in Colab. That is why the notebook content in the commit history felt
+quite foreign.
+
+By contrast, the commit history for the Python script I created looked much
+more familiar. The diff only showed the actual lines of Python code (for
+example, my `print()` statements) being added or changed. A `.py` file is
+stored as plain text, so Git can display the file almost exactly the way it
+appears in my editor.
+
+In summary, the Jupyter Notebook looked foreign in the commit history
+because an `.ipynb` file is saved as JSON with extra metadata and output
+information, whereas the Python script looked familiar because it is just
+plain-text Python code.
 """
