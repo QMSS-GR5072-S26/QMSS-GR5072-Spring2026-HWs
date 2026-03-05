@@ -1,0 +1,2 @@
+print("This is my first commit for the script practice.")
+print("SUCCESS")
