@@ -1,0 +1,10 @@
+git --version
+git config --global user.name "Qandeel Munawar Haq"
+git config --global user.email "qm2133@columbia.edu"
+git clone https://github.com/USERNAME/homework-1-main.git
+cd homework-1-main
+git checkout -b MUNAWARHAQ-QANDEEL
+mkdir -p Submissions/MUNAWARHAQ-QANDEEL
+cd Submissions/MUNAWARHAQ-QANDEEL
+jupyter notebook
+HW1_Github_Project.ipynb
